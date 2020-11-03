@@ -1,0 +1,13 @@
+C:\Users\Kiril\Desktop\Prime Holding\Switch Lights\Switch Lights\bin\Debug\netcoreapp3.1\Switch Lights.exe
+C:\Users\Kiril\Desktop\Prime Holding\Switch Lights\Switch Lights\bin\Debug\netcoreapp3.1\Switch Lights.deps.json
+C:\Users\Kiril\Desktop\Prime Holding\Switch Lights\Switch Lights\bin\Debug\netcoreapp3.1\Switch Lights.runtimeconfig.json
+C:\Users\Kiril\Desktop\Prime Holding\Switch Lights\Switch Lights\bin\Debug\netcoreapp3.1\Switch Lights.runtimeconfig.dev.json
+C:\Users\Kiril\Desktop\Prime Holding\Switch Lights\Switch Lights\bin\Debug\netcoreapp3.1\Switch Lights.dll
+C:\Users\Kiril\Desktop\Prime Holding\Switch Lights\Switch Lights\bin\Debug\netcoreapp3.1\Switch Lights.pdb
+C:\Users\Kiril\Desktop\Prime Holding\Switch Lights\Switch Lights\obj\Debug\netcoreapp3.1\Switch Lights.csprojAssemblyReference.cache
+C:\Users\Kiril\Desktop\Prime Holding\Switch Lights\Switch Lights\obj\Debug\netcoreapp3.1\Switch Lights.AssemblyInfoInputs.cache
+C:\Users\Kiril\Desktop\Prime Holding\Switch Lights\Switch Lights\obj\Debug\netcoreapp3.1\Switch Lights.AssemblyInfo.cs
+C:\Users\Kiril\Desktop\Prime Holding\Switch Lights\Switch Lights\obj\Debug\netcoreapp3.1\Switch Lights.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\Desktop\Prime Holding\Switch Lights\Switch Lights\obj\Debug\netcoreapp3.1\Switch Lights.dll
+C:\Users\Kiril\Desktop\Prime Holding\Switch Lights\Switch Lights\obj\Debug\netcoreapp3.1\Switch Lights.pdb
+C:\Users\Kiril\Desktop\Prime Holding\Switch Lights\Switch Lights\obj\Debug\netcoreapp3.1\Switch Lights.genruntimeconfig.cache
